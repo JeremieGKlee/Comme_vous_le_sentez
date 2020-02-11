@@ -8,7 +8,7 @@
     <?php
 
         $number = 2;
-        for($i = 1;$i <11; $i++){
+        for($i = 1;$i <12; $i++){
             echo
                 "<p>", $number,
                 " &times; ",$i,
